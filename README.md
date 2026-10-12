@@ -1,11 +1,14 @@
-# 🚀 SAIR Jr. Certification Track: Your Launchpad into AI/ML Engineering
+
+# 🚀 SAIR Jr. Certification Track: Your Launchpad into ML Engineering
 
 <div align="center">
 
 ![SAIR Banner](SAiR_logo.jpg)
 
-### **Build Production-Ready AI Skills from Scratch**
-*The foundational AI/ML engineering program of the Sudanese Artificial Intelligence Research (SAIR) Initiative*
+### **Build the ML Engineering Foundation That Lasts Years — Not the Framework of the Month**
+*The bottom-up machine learning engineering track of the Sudanese Artificial Intelligence Research (SAIR) Initiative*
+
+**We don't chase LLMs. We don't chase agents. We build ML engineers.**
 
 <table>
 <tr>
@@ -20,7 +23,9 @@
 </a>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/COMING_SOON-Module_6:_MLOps-9C27B0?style=for-the-badge&logo=docker&logoColor=white" alt="Coming Soon"/>
+<a href="https://github.com/SAIR-Org/SAiR-MLOps">
+<img src="https://img.shields.io/badge/⚙️_MLOps_MODULE-9C27B0?style=for-the-badge&logo=docker&logoColor=white" alt="MLOps Module"/>
+</a>
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/ENROLLMENT-OPEN-brightgreen?style=for-the-badge" alt="Status"/>
@@ -30,8 +35,9 @@
 
 **Track Lead:** [Mohammed Awad Ahmed (Silva)](https://www.linkedin.com/in/maas-ai)  
 **Duration:** 6-9 months (self-paced with cohort support)  
-**Level:** Aspiring Junior AI/ML Engineer  
-**Prerequisites:** Basic programming mindset (we teach you Python!)
+**Level:** Aspiring Junior ML Engineer  
+**Prerequisites:** Basic programming mindset (we teach you Python!)  
+**Recommended (not required):** Basic SQL familiarity (SELECT, JOIN, WHERE, GROUP BY) — highly beneficial for data engineering, feature stores, and MLOps pipelines
 
 </div>
 
@@ -47,7 +53,48 @@
 | 3 — Neural Networks from Scratch | `3_Neural%20Network%20from%20scratch/` | [README](3_Neural%20Network%20from%20scratch/README.md) | ✅ Complete |
 | 4 — Applied Deep Learning with PyTorch | `4_Applied Deep Learning with PyTorch/` | [README](4_Applied%20Deep%20Learning%20with%20PyTorch/README.md) | ✅ Complete |
 | 5 — GPT from Scratch | `5_GPT from scratch/` | [README](5_GPT%20from%20scratch/README.md) · [🏆 Capstone](https://github.com/SAIR-Org/miniGPT) | ✅ Complete |
-| 6 — MLOps | `6_MLOps/` | — | 🔜 Incoming |
+| 6 — MLOps | [SAiR-MLOps](https://github.com/SAIR-Org/SAiR-MLOps) | [Blueprint](https://github.com/SAIR-Org/SAiR-MLOps-Blueprint) | ✅ Complete |
+
+---
+
+## 🧭 **What This Track Is — And What It Isn't**
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+<h3>✅ What This IS</h3>
+<p align="left">
+✅ A <strong>bottom-up ML engineering track</strong> — from Python fundamentals to deployed production systems<br/>
+✅ <strong>Depth-first</strong>: you build the tools before you use them<br/>
+✅ <strong>Durable foundations</strong>: math, algorithms, systems thinking — the skills that outlive any framework<br/>
+✅ <strong>Full-spectrum ML</strong>: classical ML, deep learning, LLMs, MLOps — all of it, in order<br/>
+✅ Training that produces engineers who can <strong>rebuild today's tools from first principles</strong>
+</p>
+</td>
+<td width="50%" align="center" valign="top">
+<h3>❌ What This Is NOT</h3>
+<p align="left">
+❌ Not an <strong>"LLM of the week"</strong> bootcamp<br/>
+❌ Not an <strong>agent-hype crash course</strong> that teaches you to glue together someone else's API<br/>
+❌ Not <strong>tool-syntax tourism</strong> — "here's a 20-min MLflow demo, moving on"<br/>
+❌ Not a shortcut that gets you a job in 6 weeks but leaves you stuck in 6 months<br/>
+❌ Not a program that teaches you <em>what</em> to import — but not <em>why</em> it exists
+</p>
+</td>
+</tr>
+</table>
+
+</div>
+
+> ### 🎯 **Our Bet**
+> The AI field changes every 6 months. Frameworks come and go. But the engineers who understand the **mathematics, the systems, and the reasoning underneath** — those engineers are still standing 10 years later.
+>
+> **We're building ML engineers — not prompt engineers.** SAIR Jr. is the foundation. AI-engineering topics — agents, RAG, orchestration at scale, LLM system design — layer on top in later stages, *once the foundation is rock-solid*.
+
+> ### 🔮 **What Comes Next**
+> SAIR Jr. is deliberately ML-engineering-first. **AI engineering topics** — agents, retrieval systems, orchestration frameworks, LLM system design — arrive in **SAIR Mid**, once you've built the foundation that makes them meaningful. Sequence matters. We're not skipping them; we're earning them.
 
 ---
 
@@ -77,6 +124,10 @@
 - 🌍 **Solve uniquely African problems** with world-class solutions
 
 **We reject surface-level learning.** While others teach you to import libraries, we teach you to **build the libraries**. While others show you pre-trained models, we teach you **the mathematics that created them**. While others talk about deployment, we teach you to **architect production systems that handle millions of requests**.
+
+**LLMs are one chapter in this track — not the whole book.** We teach them deeply, when the time is right, as one tool among many. Our job is to make sure you can build them from scratch — not just call an API.
+
+**While the field chases whatever is trending this quarter, we build the foundation that lets you adapt to whatever comes next.**
 
 ---
 
@@ -115,11 +166,11 @@
 │   ├── 🧠 Module 3: Neural Networks
 │   ├── 🔥 Module 4: Deep Learning ✅
 │   ├── 🧠 Module 5: GPT from Scratch ✅
-│   ├── ⚙️ Module 6: MLOps (Coming Soon)
+│   ├── ⚙️ Module 6: MLOps ✅ [SAiR-MLOps](https://github.com/SAIR-Org/SAiR-MLOps)
 │   └── 💎 Capstone: Real-World Project
 │
 ├── 🚀 SAIR Mid (Planned Next Stage)
-│   └── Advanced AI → Research & Specialization
+│   └── AI Engineering Layer: Agents · RAG · Orchestration · LLM System Design
 │
 └── 🏆 SAIR Sr. (Future)
     └── AI Leadership → System Architecture
@@ -127,11 +178,39 @@
 
 ---
 
+## 📁 **Repository Structure**
+
+```
+SAIR_Jr/
+├── 0_Python and Data Science Tools/     # Foundations — NumPy, Pandas, Matplotlib
+├── 1_Regression/                         # Your first ML model
+│   └── Regression Capstone Projects/     # 16+ student capstones
+├── 2_Classification/                     # Production ML pipelines
+├── 3_Neural Network from scratch/        # NN fundamentals, math, optimization
+├── 4_Applied Deep Learning with PyTorch/ # CNNs, NLP, Transformers, HuggingFace
+│   └── lab_assignments/                  # Student submissions
+├── 5_GPT from scratch/                   # LLM fundamentals (5 notebooks + 3 appendices)
+├── assets/reading/                       # Book covers referenced in the reading list
+├── SAiR_logo.jpg                         # Program banner
+└── README.md
+```
+
+**Standalone repos (linked from this track):**
+
+| Repo | What It Is |
+|---|---|
+| 🧠 [`SAIR-Org/miniGPT`](https://github.com/SAIR-Org/miniGPT) | Module 5 capstone — full-stack GPT-2 CLI + Modal cloud training + web UI |
+| ⚙️ [`SAIR-Org/SAiR-MLOps`](https://github.com/SAIR-Org/SAiR-MLOps) | Module 6 hands-on — SAIRCAMP Project 1 (NYC Taxi MLOps, 9 modules) |
+| 📖 [`SAIR-Org/MLOps-from-First-Principles`](https://github.com/SAIR-Org/MLOps-from-First-Principles) | Module 6 theory — concept-first YouTube playlist |
+| 🏗️ [`SAIR-Org/SAiR-MLOps-Blueprint`](https://github.com/SAIR-Org/SAiR-MLOps-Blueprint) | Module 6 hub — maps the whole MLOps module |
+
+---
+
 ## 📚 **Your Learning Blueprint: 6 Modules + Capstone**
 
 <div align="center">
 
-### **From Zero to Deployed AI Systems**
+### **From Zero to Deployed ML Systems**
 
 <table>
 <thead>
@@ -183,7 +262,7 @@
 <td align="center">6-8 weeks</td>
 <td align="center">✅ Complete</td>
 <td>Vision apps, NLP pipelines, fine-tuned transformers</td>
-<td>Modern AI development</td>
+<td>Modern ML development</td>
 </tr>
 <tr>
 <td align="center"><strong>5 🧠</strong></td>
@@ -195,9 +274,9 @@
 </tr>
 <tr>
 <td align="center"><strong>6 ⚙️</strong></td>
-<td><strong>MLOps</strong><br/><em>Docker · FastAPI · MLflow · DVC · Data Pipelines · CI/CD · Monitoring</em></td>
+<td><strong>MLOps</strong><br/><em>Docker · FastAPI · MLflow · Prefect · CI/CD · Monitoring</em></td>
 <td align="center">6-8 weeks</td>
-<td align="center">🔜 <strong>Coming Soon</strong></td>
+<td align="center"><a href="https://github.com/SAIR-Org/SAiR-MLOps">✅ Complete</a></td>
 <td>Production ML system: containerized, versioned, monitored, and deployed</td>
 <td>Production operations</td>
 </tr>
@@ -207,7 +286,7 @@
 <td align="center">4-8 weeks</td>
 <td align="center">🎯 Certificate Project</td>
 <td>Portfolio showcase project</td>
-<td>Full-stack AI engineering</td>
+<td>Full-stack ML engineering</td>
 </tr>
 </tbody>
 </table>
@@ -216,37 +295,39 @@
 
 ---
 
-## ✅ **Module 5 Complete: GPT from Scratch**
+## ✅ **Completed Modules: 5 & 6**
 
 <div align="center">
 
-### **✅ Module 5 Complete: GPT from Scratch**
-
-**What we built:** A full GPT-2 language model from a blank file using only PyTorch  
-**Textbook:** *Build a Large Language Model (From Scratch)* — Sebastian Raschka  
-**Capstone:** [miniGPT](https://github.com/SAIR-Org/miniGPT) — full-stack CLI + Modal cloud training + web UI
+### **Two Full Modules Shipped — From LLMs to Production**
 
 <table>
 <tr>
-<td width="60%" align="center">
-<h4>📊 Module Progress</h4>
-<div style="background: #f5f5f5; padding: 10px; border-radius: 8px;">
-<div style="background: linear-gradient(90deg, #4caf50 100%, #e0e0e0 0%); height: 20px; border-radius: 10px;"></div>
-<p style="margin-top: 8px;"><strong>All 5 Notebooks + 3 Appendixes Complete</strong></p>
-</div>
+<td width="50%" align="center">
+<h3>🧠 Module 5 — GPT from Scratch</h3>
+<p><strong>Built:</strong> Full GPT-2 (124M params) from a blank file using only PyTorch</p>
+<p><strong>Textbook:</strong> <em>Build a Large Language Model (From Scratch)</em> — Sebastian Raschka</p>
+<p><strong>Capstone:</strong> <a href="https://github.com/SAIR-Org/miniGPT">🏆 miniGPT</a> — full-stack CLI + Modal cloud training + web UI</p>
+<p>
+<img src="https://img.shields.io/badge/✅_COMPLETE-4CAF50?style=flat-square" alt="Complete"/>
+</p>
 </td>
-<td width="40%" align="center">
-<h4>🧠 What We Built</h4>
-<p>🔤 Custom tokenizer + data pipeline<br/>
-👁️ Multi-head causal attention<br/>
-🏗️ Full GPT-2 architecture (124M params)<br/>
-⚡ Training loop V0→V4 (DDP)<br/>
-🎲 4 generation strategies + Gradio UI</p>
+<td width="50%" align="center">
+<h3>⚙️ Module 6 — MLOps</h3>
+<p><strong>Built:</strong> Production ML system — containerized, versioned, monitored, deployed</p>
+<p><strong>Hands-On:</strong> <a href="https://github.com/SAIR-Org/SAiR-MLOps">SAIRCAMP Project 1 — NYC Taxi MLOps</a> (9 modules, notebook → production)</p>
+<p><strong>Theory:</strong> <a href="https://github.com/SAIR-Org/MLOps-from-First-Principles"><em>MLOps from First Principles</em></a> — YouTube playlist</p>
+<p><strong>Reading:</strong> <em>Designing Machine Learning Systems</em> — Chip Huyen</p>
+<p>
+<img src="https://img.shields.io/badge/✅_COMPLETE-9C27B0?style=flat-square" alt="Complete"/>
+</p>
 </td>
 </tr>
 </table>
 
 </div>
+
+---
 
 ### 📖 **Module 5 Learning Journey: Build a GPT Language Model**
 
@@ -269,7 +350,7 @@
 <td>🔤 Custom tokenizer V1/V2 + tiktoken BPE + sliding window DataLoader on 1.9M-token Harry Potter corpus</td>
 </tr>
 <tr style="background-color: #fff8e1; border-left: 3px solid #ff9800;">
-<td align="center"><strong>2</strong><br/>👁️<br/><em>📍YOU ARE HERE</em></td>
+<td align="center"><strong>2</strong><br/>👁️</td>
 <td><strong>Attention Mechanisms</strong></td>
 <td>Dot-product → scaled → causal masking → multi-head attention, step by step</td>
 <td>🔢 Full MultiHeadAttention module with masks and dropout — traced on concrete token examples</td>
@@ -315,15 +396,78 @@
 
 ---
 
+### 📖 **Module 6 Learning Journey: From Notebook to Production**
+
+**Theory track + hands-on project — the full arc from a Jupyter notebook to a secured, auto-deploying production system**
+
+<table>
+<thead>
+<tr>
+<th width="25%">Resource</th>
+<th width="20%">Type</th>
+<th width="55%">What It Covers</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>MLOps from First Principles</strong></td>
+<td>📖 Theory (YouTube)</td>
+<td>Concept-first playlist — the <em>why</em> behind every MLOps tool. Watch before each SAIRCAMP build session.</td>
+</tr>
+<tr style="background-color: #f3e5f5; border-left: 3px solid #9c27b0;">
+<td><strong>SAIRCAMP Project 1 — NYC Taxi MLOps</strong></td>
+<td>🏗️ Hands-On (9 modules)</td>
+<td>End-to-end production system: notebook → tracked experiments → orchestrated pipeline → online + batch serving → Docker Compose → real VPS → Nginx + HTTPS + CI/CD → Prometheus + Grafana monitoring. Dataset: NYC Yellow Taxi (2019–2024).</td>
+</tr>
+<tr>
+<td><strong>Designing Machine Learning Systems</strong></td>
+<td>📚 Required Reading</td>
+<td>Chip Huyen — design reasoning above the code: data distribution shifts, train/serve skew, feature stores, monitoring strategy, org-level tradeoffs.</td>
+</tr>
+<tr style="background-color: #e8f5e9; border-left: 3px solid #4caf50;">
+<td><strong>SAIRCAMP Project 2 — Deep Learning MLOps</strong></td>
+<td>🏗️ Hands-On</td>
+<td>🔜 <strong>Coming</strong> — the next project in the SAIRCAMP series. Same MLOps principles, applied to a deep learning system.</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+### 🎯 **What "Production-Ready" Actually Means Here**
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" align="center">
+<h3>🔁 Reproducible</h3>
+<p>Anyone can clone the repo, run one command, and get the same results — data, model, and environment all versioned</p>
+</td>
+<td width="33%" align="center">
+<h3>📦 Portable</h3>
+<p>The system runs identically on a laptop, a CI runner, and a cloud server thanks to Docker + config management</p>
+</td>
+<td width="34%" align="center">
+<h3>📊 Observable</h3>
+<p>Every prediction, latency spike, and drift signal is tracked — you know when the model starts failing <em>before</em> users do</p>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## 🛠️ **Technology Stack You'll Master**
 
 <div align="center">
 
-### **Industry-Standard Tools for Modern AI Engineering**
+### **Industry-Standard Tools for Modern ML Engineering**
 
 <table>
 <tr>
-<td align="center" width="20%">
+<td align="center" width="16%">
 <div style="background: #f3e5f5; padding: 15px; border-radius: 10px; height: 180px;">
 <h4>🐍 Foundation</h4>
 <code style="background: #f8f9fa; padding: 2px 6px; border-radius: 4px; display: block; margin: 5px 0;">🐍 Python</code>
@@ -332,7 +476,7 @@
 <code style="background: #f8f9fa; padding: 2px 6px; border-radius: 4px; display: block; margin: 5px 0;">📊 Matplotlib</code>
 </div>
 </td>
-<td align="center" width="20%">
+<td align="center" width="16%">
 <div style="background: #e3f2fd; padding: 15px; border-radius: 10px; height: 180px;">
 <h4>🤖 Classical ML</h4>
 <code style="background: #f8f9fa; padding: 2px 6px; border-radius: 4px; display: block; margin: 5px 0;">🧪 Scikit-learn</code>
@@ -341,7 +485,7 @@
 <code style="background: #f8f9fa; padding: 2px 6px; border-radius: 4px; display: block; margin: 5px 0;">🌊 Streamlit</code>
 </div>
 </td>
-<td align="center" width="20%">
+<td align="center" width="16%">
 <div style="background: #fff3e0; padding: 15px; border-radius: 10px; height: 180px;">
 <h4>🔥 Deep Learning</h4>
 <code style="background: #f8f9fa; padding: 2px 6px; border-radius: 4px; display: block; margin: 5px 0;">🔥 PyTorch</code>
@@ -350,22 +494,30 @@
 <code style="background: #f8f9fa; padding: 2px 6px; border-radius: 4px; display: block; margin: 5px 0;">⚖️ Weights & Biases</code>
 </div>
 </td>
-<td align="center" width="20%">
+<td align="center" width="16%">
 <div style="background: #e8f5e9; padding: 15px; border-radius: 10px; height: 180px;">
 <h4>⚙️ MLOps</h4>
 <code style="background: #f8f9fa; padding: 2px 6px; border-radius: 4px; display: block; margin: 5px 0;">🐳 Docker</code>
 <code style="background: #f8f9fa; padding: 2px 6px; border-radius: 4px; display: block; margin: 5px 0;">⚡ FastAPI</code>
-<code style="background: #f8f9fa; padding: 2px 6px; border-radius: 4px; display: block; margin: 5px 0;">🔧 GitHub Actions</code>
+<code style="background: #f8f9fa; padding: 2px 6px; border-radius: 4px; display: block; margin: 5px 0;">⚙️ Prefect</code>
 <code style="background: #f8f9fa; padding: 2px 6px; border-radius: 4px; display: block; margin: 5px 0;">📊 Prometheus</code>
 </div>
 </td>
-<td align="center" width="20%">
+<td align="center" width="16%">
 <div style="background: #fce4ec; padding: 15px; border-radius: 10px; height: 180px;">
 <h4>☁️ Deployment</h4>
-<code style="background: #f8f9fa; padding: 2px 6px; border-radius: 4px; display: block; margin: 5px 0;">☁️ AWS/GCP</code>
-<code style="background: #f8f9fa; padding: 2px 6px; border-radius: 4px; display: block; margin: 5px 0;">🚢 Kubernetes</code>
+<code style="background: #f8f9fa; padding: 2px 6px; border-radius: 4px; display: block; margin: 5px 0;">🌐 Nginx</code>
+<code style="background: #f8f9fa; padding: 2px 6px; border-radius: 4px; display: block; margin: 5px 0;">🔧 GitHub Actions</code>
 <code style="background: #f8f9fa; padding: 2px 6px; border-radius: 4px; display: block; margin: 5px 0;">📈 Grafana</code>
-<code style="background: #f8f9fa; padding: 2px 6px; border-radius: 4px; display: block; margin: 5px 0;">🗄️ SQLite</code>
+<code style="background: #f8f9fa; padding: 2px 6px; border-radius: 4px; display: block; margin: 5px 0;">🔐 SSL/HTTPS</code>
+</div>
+</td>
+<td align="center" width="16%">
+<div style="background: #e0f7fa; padding: 15px; border-radius: 10px; height: 180px;">
+<h4>🗄️ Data</h4>
+<code style="background: #f8f9fa; padding: 2px 6px; border-radius: 4px; display: block; margin: 5px 0;">🐘 PostgreSQL</code>
+<code style="background: #f8f9fa; padding: 2px 6px; border-radius: 4px; display: block; margin: 5px 0;">📊 SQL</code>
+<code style="background: #f8f9fa; padding: 2px 6px; border-radius: 4px; display: block; margin: 5px 0;">📈 Data Pipelines</code>
 </div>
 </td>
 </tr>
@@ -850,6 +1002,26 @@ To verify completion, you must:
 
 </div>
 
+---
+
+## 🎓 **Contributors**
+
+Thanks to everyone who has contributed to building Sudan's ML future 🇸🇩 — from exercises and projects to documentation and mentoring.
+
+<div align="center">
+
+<a href="https://github.com/SAIR-Org/SAIR_Jr/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=SAIR-Org/SAIR_Jr&max=200" alt="Contributors" />
+</a>
+
+<br/>
+<br/>
+
+**Want your name here?** Complete any module exercise or capstone project and submit a PR — see the `Regression Capstone Projects/` folder in Module 1 for examples of what a strong submission looks like.
+
+</div>
+
+---
 
 ## 🚀 **Start Your Journey Today**
 
@@ -924,27 +1096,6 @@ Python foundations guide
 
 </div>
 
-### 📝 **Getting Started with NeetCode 75**
-
- **Set Up Your Progress Tracker:**
-   ```python
-   # Example progress tracking structure
-   problems/
-   ├── arrays_hashing/
-   │   ├── 01_two_sum.py
-   │   ├── 02_contains_duplicate.py
-   │   └── README.md  # Pattern notes
-   ├── two_pointers/
-   └── progress.json  # Auto-generated tracking
-   ```
-
-3. **Weekly Commitment Plan:**
-   - **Monday:** Learn pattern theory (30 min)
-   - **Tuesday-Thursday:** Solve 2 problems/day (1-2 hours)
-   - **Friday:** Review & optimize solutions (1 hour)
-   - **Saturday:** Study group session (2 hours)
-   - **Sunday:** Rest or catch up
-
 ---
 
 ## 🌟 **Where SAIR Jr. Graduates Go**
@@ -958,7 +1109,7 @@ Python foundations guide
 <h4><code>💼</code> Industry Roles</h4>
 Junior ML Engineer<br/>
 Data Scientist<br/>
-AI Developer<br/>
+ML Developer<br/>
 <em>Avg. 3-6 months to hire</em>
 </div>
 </td>
@@ -975,7 +1126,7 @@ Specialization<br/>
 <div style="background: #e3f2fd; padding: 15px; border-radius: 10px; height: 180px;">
 <h4><code>🚀</code> Freelance</h4>
 ML Consultant<br/>
-AI Solutions<br/>
+ML Solutions<br/>
 Remote Projects<br/>
 <em>Portfolio-ready</em>
 </div>
@@ -983,7 +1134,7 @@ Remote Projects<br/>
 <td align="center" width="25%">
 <div style="background: #fff3e0; padding: 15px; border-radius: 10px; height: 180px;">
 <h4><code>💡</code> Entrepreneurship</h4>
-AI Startup<br/>
+ML Startup<br/>
 Tech Solutions<br/>
 Local Innovation<br/>
 <em>Problem-focused</em>
@@ -1048,7 +1199,7 @@ With NeetCode 75 completion and SAIR Jr. training, graduates demonstrate:
 
 ### **"السير" - The Journey Begins with a Single Step**
 
-*Every expert was once a beginner. Your AI engineering journey starts here.*
+*Every expert was once a beginner. Your ML engineering journey starts here.*
 
 <table>
 <tr>
@@ -1075,7 +1226,7 @@ With NeetCode 75 completion and SAIR Jr. training, graduates demonstrate:
 - [ ] Fork NeetCode SAIR repository
 
 **License:** MIT | **Last Updated:** March 2026  
-**Building Sudan's AI Future, One Engineer at a Time 🇸🇩✨**
+**Building Sudan's ML Future, One Engineer at a Time 🇸🇩✨**
 
 ---
 
@@ -1086,15 +1237,15 @@ With NeetCode 75 completion and SAIR Jr. training, graduates demonstrate:
 **When you complete this program, you will:**
 
 1. **Design & implement** machine learning solutions from **first principles**
-2. **Deploy & maintain** production AI systems with **global standards**
+2. **Deploy & maintain** production ML systems with **global standards**
 3. **Solve coding challenges** using **75 essential algorithmic patterns** with fluency
 4. **Communicate technical concepts** clearly to both technical and non-technical audiences
-5. **Contribute meaningfully** to Sudan's AI ecosystem through **impactful, scalable projects**
+5. **Contribute meaningfully** to Sudan's ML ecosystem through **impactful, scalable projects**
 
 ### **🔥 Our Unshakable Belief**
 
-**We believe in the Sudanese mind.** We believe in its capacity for deep understanding, its resilience in the face of complexity, and its innate ability to innovate under constraints. This program is not just about teaching AI—it's about **unleashing the potential that already exists within you.**
+**We believe in the Sudanese mind.** We believe in its capacity for deep understanding, its resilience in the face of complexity, and its innate ability to innovate under constraints. This program is not just about teaching ML — it's about **unleashing the potential that already exists within you.**
 
-**The world needs Sudanese AI talent. The time for preparation is now. Begin your journey today.**
+**The world needs Sudanese ML talent. The time for preparation is now. Begin your journey today.**
 
 </div>
